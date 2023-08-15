@@ -3,7 +3,7 @@ Module 11 homework
 
 Overall Comment: This assignment was very instructive and fun to complete. I feel more confident working in Pandas now than when I used it primarily for Project 1 in July last month. Overall, I think web scraping useful skill to obtain data if there is no other available source (API or csv or SQL or other) for data AND it is ethically and legally permitted. 
 
-CSV file
+CSV file:
 A a requirement of the Part 2 assignment was to create a CSV file from the dataframe in Pandas. The 'mars_weather.csv' file is that file. 
 
 Resources:
